@@ -1,0 +1,3 @@
+﻿  Cadastro-clientes.c
+C:\Users\playe\OneDrive\Área de Trabalho\C\Test]\cadastro-de-cliente\cadastro-de-cliente\Cadastro-clientes.c(74,9): warning C4013: 'strcmp' undefined; assuming extern returning int
+  cadastro-de-cliente.vcxproj -> C:\Users\playe\OneDrive\Área de Trabalho\C\Test]\cadastro-de-cliente\x64\Debug\cadastro-de-cliente.exe
